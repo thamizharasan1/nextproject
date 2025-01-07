@@ -78,7 +78,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Examples
+          Thamizharasan
         </a>
         
       </footer>
